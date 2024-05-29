@@ -1,3 +1,5 @@
 # Git test
 
-Este é um repositório teste, para indentificar se o git está funcionando.
+Este é um repositório teste.
+
+Testando meu git local e remoto.
